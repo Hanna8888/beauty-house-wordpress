@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I develop apps in React and also create websites.</h3>
 
-# wordpress-landing
+# beauty-house-wordpress
 
 - Is a one page responsive wordpress template to showcase your portfolio [see for yourself](https://hanna8888.github.io/beauty-house-landing/)
 - It was built with bootstrap 
